@@ -1,1 +1,1 @@
-# jacoco-aggragte-generator
+# JaCoCo aggregate generator
